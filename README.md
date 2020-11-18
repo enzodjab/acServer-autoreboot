@@ -1,5 +1,5 @@
 # acServer-AutoReboot
-Script shell qui redémarre des serveurs assetto corsa en arrière plan toute les 48h
+Script shell qui redémarre des serveurs assetto corsa en arrière plan toutes les 48h
 
 Prérequis :
 - Avoir screen d'installer
