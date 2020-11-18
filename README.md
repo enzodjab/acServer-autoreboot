@@ -3,6 +3,8 @@ Script shell qui redémarre des serveurs assetto corsa en arrière plan toutes l
 
 Prérequis :
 - Avoir screen d'installer
+
+
 Installation de screen :
 ```apt update && apt install screen```
 
