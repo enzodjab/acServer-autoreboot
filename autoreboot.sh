@@ -12,7 +12,7 @@ do
 	screen -S "24h-of-spa" -dm bash -c 'cd /home/enzo/acServer/24h-of-spa/; ./acServer >> server.log'
 	echo "Serveurs lancés !"
 	screen -ls
-	echo "Ils démarreront automatiquement dans 48h"
+	echo "Ils redémarreront automatiquement dans 48h"
 	sleep 172800
 	killall acServer
 	echo "serveurs éteints"
