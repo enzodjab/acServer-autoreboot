@@ -1,6 +1,6 @@
 #!/bin/sh
 
-while [ -z $reponse ] || [ $reponse != 'oui' ]
+while :
 do
         echo "Lancement des serveurs..."
 	sed -i '/EST/d' welcome.txt
